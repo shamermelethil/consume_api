@@ -40,6 +40,8 @@ public class TopicController {
 
 		l.add("Dragon fruit");
 
+		l.add("Strawberry");
+
 
 
 		return new ResponseEntity<List<String>>(l,HttpStatus.OK);
