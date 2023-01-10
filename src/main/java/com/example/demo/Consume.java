@@ -2,7 +2,6 @@ package com.example.demo;
 //For branching
 import java.util.ArrayList;
 
-import org.apache.derby.tools.sysinfo;
 import org.springframework.core.ParameterizedTypeReference;
 import org.springframework.http.HttpEntity;
 import org.springframework.http.HttpHeaders;
